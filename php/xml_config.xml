@@ -1,0 +1,57 @@
+<game>
+	<game_attributes>
+
+	<numberOfDivsion_south_east>2</numberOfDivsion_south_east>
+	<numberOfDivsion_north_east>2</numberOfDivsion_north_east>
+	<triangle_upper_left_colour>#FF002B</triangle_upper_left_colour>
+	<triangle_lower_left_colour>#FFA900</triangle_lower_left_colour>
+	<triangle_lower_right_colour>#00A753</triangle_lower_right_colour>
+	<triangle_upper_right_colour>#0089FA</triangle_upper_right_colour>
+
+	<triangle_upper_left_animation>#FF002B</triangle_upper_left_animation>
+	<triangle_lower_left_animation>#FFA900</triangle_lower_left_animation>
+	<triangle_lower_right_animation>#00A753</triangle_lower_right_animation>
+	<triangle_upper_right_animation>#0089FA</triangle_upper_right_animation>
+
+<!-- PAINT SCORE INSIDE MENU -->
+	<paint_score_colour>white</paint_score_colour>
+	<paint_score_font>20px Helvetica</paint_score_font>
+	<paint_score_align>left</paint_score_align>
+	<paint_score_text_baseline>top</paint_score_text_baseline>
+	<paint_score_x_coordinate>27 </paint_score_x_coordinate>
+	<paint_score_y_coordinate>30 </paint_score_y_coordinate>
+
+<!-- CATCH THE MONSTER FONT -->
+	<paint_Monster_score_colour>white</paint_Monster_score_colour>
+	<paint_Monster_score_font>24px Helvetica</paint_Monster_score_font>
+	<paint_Monster_score_text_align>left</paint_Monster_score_text_align>
+	<paint_Monster_score_text_baseline>top</paint_Monster_score_text_baseline>
+	<paint_Monster_score_x_coordinate>27 </paint_Monster_score_x_coordinate>
+	<paint_Monster_score_y_coordinate>30 </paint_Monster_score_y_coordinate>
+
+<!-- QUIZ GAME FONTS -->
+	<quiz_question_colour>white</quiz_question_colour>
+	<quiz_question_font>24pt Calibri, Arial</quiz_question_font>
+	<quiz_question_align>left</quiz_question_align>
+	<quiz_question_baseline>middle</quiz_question_baseline>
+
+<!-- FIXED IN QUIZ.JS FILE
+	<paint_Monster_score_x_coordinate> </paint_Monster_score_x_coordinate>
+	<paint_Monster_score_y_coordinate> </paint_Monster_score_y_coordinate>	-->	
+
+	<quiz_answer_colour>white</quiz_answer_colour>
+	<quiz_answer_font>18pt Calibri,Arial</quiz_answer_font>
+	<quiz_answer_align>left</quiz_answer_align>
+	<quiz_answer_baseline>middle</quiz_answer_baseline>
+
+	<endquiz_background_colour>white</endquiz_background_colour>
+	<endquiz_colour>black</endquiz_colour>
+	<endquiz_font>20pt Calibri,Arial</endquiz_font>
+	<endquiz_align>left</endquiz_align>
+	<endquiz_baseline>middle</endquiz_baseline>	
+
+	<endquiz_font_score> 16pt Calibri,Arial</endquiz_font_score>
+
+	</game_attributes>	
+
+</game>
