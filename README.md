@@ -1,4 +1,4 @@
-prat_JSDemo
+JavaScript-Playground
 ===========
 
-A Demonstration of my Javascript programming skills
+Experimenting with JavaScript
